@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaptureCarnageAPI", "CaptureCarnageAPI\CaptureCarnageAPI.csproj", "{96464183-CAE4-49B7-90B7-F3594EC8586C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96464183-CAE4-49B7-90B7-F3594EC8586C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96464183-CAE4-49B7-90B7-F3594EC8586C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96464183-CAE4-49B7-90B7-F3594EC8586C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96464183-CAE4-49B7-90B7-F3594EC8586C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51560699-CA3B-4B96-81D4-DC919EF412C7}
+	EndGlobalSection
+EndGlobal
